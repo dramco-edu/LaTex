@@ -8,6 +8,8 @@
 [![](https://api.gh-polls.com/poll/01C9HTTB45TR77YA5JCTBAMKWQ/TeXnicle)](https://api.gh-polls.com/poll/01C9HTTB45TR77YA5JCTBAMKWQ/TeXnicle/vote)
 [![](https://api.gh-polls.com/poll/01C9HTTB45TR77YA5JCTBAMKWQ/TeXShop)](https://api.gh-polls.com/poll/01C9HTTB45TR77YA5JCTBAMKWQ/TeXShop/vote)
 [![](https://api.gh-polls.com/poll/01C9HTTB45TR77YA5JCTBAMKWQ/Overleaf)](https://api.gh-polls.com/poll/01C9HTTB45TR77YA5JCTBAMKWQ/Overleaf/vote)
+[![](https://api.gh-polls.com/poll/01C9HTTB45TR77YA5JCTBAMKWQ/Sublime%20Text%20with%20LaTeXTools%20or%20LaTeXing%20Plugin)](https://api.gh-polls.com/poll/01C9HTTB45TR77YA5JCTBAMKWQ/Sublime%20Text%20with%20LaTeXTools%20or%20LaTeXing%20Plugin/vote)
+<!---
 [![](https://api.gh-polls.com/poll/01C9HTTB45TR77YA5JCTBAMKWQ/Archimedes)](https://api.gh-polls.com/poll/01C9HTTB45TR77YA5JCTBAMKWQ/Archimedes/vote)
 [![](https://api.gh-polls.com/poll/01C9HTTB45TR77YA5JCTBAMKWQ/Bakoma%20TeX%20Word)](https://api.gh-polls.com/poll/01C9HTTB45TR77YA5JCTBAMKWQ/Bakoma%20TeX%20Word/vote)
 [![](https://api.gh-polls.com/poll/01C9HTTB45TR77YA5JCTBAMKWQ/Compositor)](https://api.gh-polls.com/poll/01C9HTTB45TR77YA5JCTBAMKWQ/Compositor/vote)
@@ -37,7 +39,6 @@
 [![](https://api.gh-polls.com/poll/01C9HTTB45TR77YA5JCTBAMKWQ/Scientific%20Workplace)](https://api.gh-polls.com/poll/01C9HTTB45TR77YA5JCTBAMKWQ/Scientific%20Workplace/vote)
 [![](https://api.gh-polls.com/poll/01C9HTTB45TR77YA5JCTBAMKWQ/Scribes)](https://api.gh-polls.com/poll/01C9HTTB45TR77YA5JCTBAMKWQ/Scribes/vote)
 [![](https://api.gh-polls.com/poll/01C9HTTB45TR77YA5JCTBAMKWQ/Scribo)](https://api.gh-polls.com/poll/01C9HTTB45TR77YA5JCTBAMKWQ/Scribo/vote)
-[![](https://api.gh-polls.com/poll/01C9HTTB45TR77YA5JCTBAMKWQ/Sublime%20Text%20with%20LaTeXTools%20or%20LaTeXing%20Plugin)](https://api.gh-polls.com/poll/01C9HTTB45TR77YA5JCTBAMKWQ/Sublime%20Text%20with%20LaTeXTools%20or%20LaTeXing%20Plugin/vote)
 [![](https://api.gh-polls.com/poll/01C9HTTB45TR77YA5JCTBAMKWQ/ShareLaTeX)](https://api.gh-polls.com/poll/01C9HTTB45TR77YA5JCTBAMKWQ/ShareLaTeX/vote)
 [![](https://api.gh-polls.com/poll/01C9HTTB45TR77YA5JCTBAMKWQ/TechWriter)](https://api.gh-polls.com/poll/01C9HTTB45TR77YA5JCTBAMKWQ/TechWriter/vote)
 [![](https://api.gh-polls.com/poll/01C9HTTB45TR77YA5JCTBAMKWQ/TeXlipse%20for%20Eclipse)](https://api.gh-polls.com/poll/01C9HTTB45TR77YA5JCTBAMKWQ/TeXlipse%20for%20Eclipse/vote)
@@ -52,6 +53,7 @@
 [![](https://api.gh-polls.com/poll/01C9HTTB45TR77YA5JCTBAMKWQ/Winefish)](https://api.gh-polls.com/poll/01C9HTTB45TR77YA5JCTBAMKWQ/Winefish/vote)
 [![](https://api.gh-polls.com/poll/01C9HTTB45TR77YA5JCTBAMKWQ/WinShell)](https://api.gh-polls.com/poll/01C9HTTB45TR77YA5JCTBAMKWQ/WinShell/vote)
 [![](https://api.gh-polls.com/poll/01C9HTTB45TR77YA5JCTBAMKWQ/TeXnicCenter)](https://api.gh-polls.com/poll/01C9HTTB45TR77YA5JCTBAMKWQ/TeXnicCenter/vote)
+--->
 
 ## Table of Contents
 1. Introduction to LaTex
