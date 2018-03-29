@@ -22,3 +22,4 @@ Dit programma laat je TeX files bewerken, compileren en bekijken. Hiernaast zal 
   4. Tenslotte kan je het programma nog uittesten door een nieuwe file aan te maken via File -&gt; New from Template en kies voor een article. Door op de enkele groene pijl te klikken zal een pdf gecompileerd worden.
   5. Voor taalinstellingen en dergelijke is Google uw vriend.
 
+![alt text](https://github.com/BertCox/LaTex/blob/master/installation-procedure/image.png "MiKTeX")
