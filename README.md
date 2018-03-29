@@ -82,18 +82,24 @@ You can also use the Tex capabilities of online editors (see next section).
 Online editors are platform-agnostic editors which allows you to write LaTex without the need for installing any specific Tex-software on your computer. It often also features some collaborative functionality.
 
 Online Editors:
-- [Overleaf](https://www.overleaf.com/)
+- [Overleaf](https://github.com/BertCox/LaTex/blob/master/installation-procedure/overleaf.md)
 
 ### Offline Editors
 Offline editors require a Tex distribution. Hence, prior to installing an editor a Tex-distribution needs to be installed!
 
 Popular offline editors are:
- - TeXStudio (Windows only)
- - Texmaker
- - Atom
- - Visual Studio Code
- - TeXnicle (OSX)
- - TeXShop (OSX)
+
+#### Cross platform
+ - [Texmaker](https://github.com/BertCox/LaTex/blob/master/installation-procedure/TeXmaker.md)
+ - [Atom](https://github.com/BertCox/LaTex/blob/master/installation-procedure/ATOM.md)
+ - [Visual Studio Code](https://github.com/BertCox/LaTex/blob/master/installation-procedure/VisualStudioCode.md)
+ 
+#### Windows
+ - [TeXStudio (Windows only)](https://github.com/BertCox/LaTex/blob/master/installation-procedure/TeXStudio.md)
+
+#### OSX
+ - [TeXnicle](https://github.com/BertCox/LaTex/blob/master/installation-procedure/TeXnicle.md)
+ - [TeXShop](https://github.com/BertCox/LaTex/blob/master/installation-procedure/TeXShop.md)
 
 ## Templates
 TODO
