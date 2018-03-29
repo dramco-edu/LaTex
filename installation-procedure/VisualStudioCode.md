@@ -17,3 +17,7 @@ _Belangrijk: installeer de twee programma&#39;s in deze volgorde!_
 [https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop](https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop)
 
 ## Gebruik ctrl+shift+P om extensies te installeren
+![Extensies Installeren](https://github.com/BertCox/LaTex/blob/master/installation-procedure/Visual1.png)
+
+## Typ hierna &quot;LaTex Workshop&quot;
+![LaTeX Workshop](https://github.com/BertCox/LaTex/blob/master/installation-procedure/Visual2.png)
