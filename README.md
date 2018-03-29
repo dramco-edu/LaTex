@@ -91,7 +91,7 @@ Popular offline editors are:
 
 #### Cross platform
  - [Texmaker](https://github.com/BertCox/LaTex/blob/master/installation-procedure/TeXmaker.md)
- - [Atom](https://github.com/BertCox/LaTex/blob/master/installation-procedure/ATOM.md)
+ - [Atom](installation-procedure/ATOM.md)
  - [Visual Studio Code](https://github.com/BertCox/LaTex/blob/master/installation-procedure/VisualStudioCode.md)
  
 #### Windows
