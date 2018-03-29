@@ -21,4 +21,4 @@ _Belangrijk: installeer de twee programma&#39;s in deze volgorde!_
   8. Het builden van de PDF&#39;s wordt gedaan door eenvoudigweg CTRL+ALT+B.
   9. Enkele interessante links voor het instellen packages vind je [hier](http://blog.matteomerola.me/2016/02/atom-for-latex), [hier](http://economistry.com/2016/02/create-first-pdf-latex-atom-mac/) en [hier](https://rolflekang.com/writing-latex-in-atom/).
 
-![alt text](https://github.com/BertCox/LaTex/blob/master/installation-procedure/image.png "Markdown Settings")
+![alt text](https://github.com/BertCox/LaTex/blob/master/installation-procedure/Atom.png "Markdown Settings")
