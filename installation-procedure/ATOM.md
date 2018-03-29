@@ -3,12 +3,19 @@ Atom is een tekstverwerkingsprogramma dat meer kan dan alleen het schrijven en c
 
 _Belangrijk: installeer de twee programma&#39;s in deze volgorde!_
 
-## MiKTeX installeren
+## MiKTeX/MacTeX installeren
+
+#### MiKTeX installeren (WINDOWS)
   1. Ga naar de MiKTeX download [pagina](http://miktex.org/download/) en selecteer de basis installer.
   2. Voer het .exe bestand uit.
   3. Aanvaard de &quot;copying conditions&quot; en ga door alle stappen van de installer. **GEBRUIK DE DEFAULT LOCATIE VOOR HET INSTALLEREN VAN DE BINARIES. DIT OM LATER PROBLEMEN TE VOORKOMEN BIJ HET INSTALLEREN VAN ATOM.**
   4. Het downloaden van de packages kan enkele minuten duren.
   5. Sluit de installatie af. Er staat nu LaTeX op je computer.
+
+#### MacTeX (OSX)
+  1. Ga naar de MacTeX download [pagina](https://tug.org/mactex/mactex-download.html) en download het juiste pkg-bestand. Dit kan enige tijd duren door de grootte van het bestand. (&gt;2GB)
+  2. Sleep het gedownloade bestand naar een daarvoor toegekende map en dubbel klik het om te installeren.
+  3. In /Applications/TeX staat een READ ME bestand wat uitlegt hoe LaTeX te gebruiken.
 
 ## ATOM installeren
   1. Ga naar de download [pagina](https://atom.io/) en download de laatste versie van ATOM.
