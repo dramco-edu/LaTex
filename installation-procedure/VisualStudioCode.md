@@ -2,6 +2,9 @@
 
 _Belangrijk: installeer de twee programma&#39;s in deze volgorde!_
 
+## Texlive
+[TexLive](https://www.tug.org/texlive/) distributie wordt aangeraden i.p.v. onderstaand vermelde MikTeX.
+
 ## MiKTeX/MaxTeX installeren
 
 #### MiKTeX installeren (Windows)
