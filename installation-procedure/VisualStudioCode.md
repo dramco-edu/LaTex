@@ -31,3 +31,7 @@ _Belangrijk: installeer de twee programma&#39;s in deze volgorde!_
 
 ## Typ hierna &quot;LaTex Workshop&quot;
 ![LaTeX Workshop](https://github.com/BertCox/LaTex/blob/master/installation-procedure/Visual2.png)
+
+
+## Tools and Snippets
+See [this gist](https://gist.github.com/GillesC/58f031e44a51fa5e76dcd0daa6c2808e)
