@@ -82,7 +82,7 @@ You can also use the Tex capabilities of online editors (see next section).
 Online editors are platform-agnostic editors which allows you to write LaTex without the need for installing any specific Tex-software on your computer. It often also features some collaborative functionality.
 
 Online Editors:
-- [Overleaf](https://github.com/BertCox/LaTex/blob/master/installation-procedure/overleaf.md)
+- [Overleaf](https://github.com/DRAMCO/LaTex/blob/master/installation-procedure/overleaf.md)
 
 ### Offline Editors
 Offline editors require a Tex distribution. Hence, prior to installing an editor a Tex-distribution needs to be installed!
@@ -90,16 +90,16 @@ Offline editors require a Tex distribution. Hence, prior to installing an editor
 Popular offline editors are:
 
 #### Cross platform
- - [Texmaker](https://github.com/BertCox/LaTex/blob/master/installation-procedure/TeXmaker.md)
+ - [Texmaker](https://github.com/DRAMCO/LaTex/blob/master/installation-procedure/TeXmaker.md)
  - [Atom](installation-procedure/ATOM.md)
- - [Visual Studio Code](https://github.com/BertCox/LaTex/blob/master/installation-procedure/VisualStudioCode.md)
+ - [Visual Studio Code](https://github.com/DRAMCO/LaTex/blob/master/installation-procedure/VisualStudioCode.md)
  
 #### Windows
- - [TeXStudio (Windows only)](https://github.com/BertCox/LaTex/blob/master/installation-procedure/TeXStudio.md)
+ - [TeXStudio (Windows only)](https://github.com/DRAMCO/LaTex/blob/master/installation-procedure/TeXStudio.md)
 
 #### OSX
- - [TeXnicle](https://github.com/BertCox/LaTex/blob/master/installation-procedure/TeXnicle.md)
- - [TeXShop](https://github.com/BertCox/LaTex/blob/master/installation-procedure/TeXShop.md)
+ - [TeXnicle](https://github.com/DRAMCO/LaTex/blob/master/installation-procedure/TeXnicle.md)
+ - [TeXShop](https://github.com/DRAMCO/LaTex/blob/master/installation-procedure/TeXShop.md)
 
 ## Templates
-TODO
+ - [Lab Report](https://github.com/DRAMCO/LaTex/tree/master/templates/lab-report)
