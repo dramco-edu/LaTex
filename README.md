@@ -2,6 +2,9 @@
 
 :fire: Check-out our [tips and tricks](https://github.com/dramco-edu/LaTex/wiki/LaTex-Tips-and-Tricks) section in our Wiki! :fire:
 
+
+:fire: Check-out our the latex-workshop pdf file with best practices and introduction to LaTeX :fire:
+
 ## What is your favourite Latex IDE/Editor?
 [![](https://api.gh-polls.com/poll/01C9HTTB45TR77YA5JCTBAMKWQ/TexStudio)](https://api.gh-polls.com/poll/01C9HTTB45TR77YA5JCTBAMKWQ/TexStudio/vote)
 [![](https://api.gh-polls.com/poll/01C9HTTB45TR77YA5JCTBAMKWQ/Texmaker)](https://api.gh-polls.com/poll/01C9HTTB45TR77YA5JCTBAMKWQ/Texmaker/vote)
